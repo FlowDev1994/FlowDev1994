@@ -5,13 +5,15 @@
     <td width="65%" valign="top">
       <h3>👋 Olá, seja bem-vindo(a)!</h3>
       <p align="justify">
-        Tenho 30 anos e sou desenvolvedora apaixonada por tecnologia e pela arte de transformar ideias em soluções digitais. Estudo programação há alguns anos e tive a oportunidade de trabalhar por 3 anos em uma escola de programação, onde aprimorei minhas habilidades e tive contato direto com diferentes projetos e pessoas em aprendizado constante.
+        Sou desenvolvedora full stack, apaixonada por transformar ideias em soluções digitais eficientes e bem estruturadas. Tenho 4 anos de experiência em uma escola de programação, onde participei de projetos reais, mentorei alunos e vivi um ambiente de aprendizado constante o que fortaleceu minha visão prática sobre código limpo, usabilidade e boas práticas de desenvolvimento.
         <br>
-        Meu foco de estudos está em HTML, CSS, JavaScript, Java, MySQL, entre outras tecnologias, sempre buscando expandir meus conhecimentos. Além disso, utilizo Linux como sistema principal, o que me proporciona uma rotina de desenvolvimento mais produtiva e alinhada ao mundo open source.
+        Atualmente, meu foco está em HTML, CSS, JavaScript, Java e MySQL, com base sólida em lógica de programação e integração entre front e back-end. Trabalho diariamente em Linux, ambiente que me proporciona fluidez, automação e contato direto com ferramentas do ecossistema open source.
         <br>
-        Sou movida pela curiosidade e pelo desejo de aprender continuamente. Acredito que a programação vai além de uma carreira: é uma ferramenta poderosa para resolver problemas, simplificar processos e inovar.
+        Sou movida por curiosidade, aprendizado contínuo e resolução de problemas. Acredito que a tecnologia é uma ponte entre pessoas e soluções, e busco contribuir com projetos que unam inovação, eficiência e propósito.
         <br>
-        Este portfólio é o espaço onde compartilho projetos que me desafiaram e me ajudaram a evoluir como desenvolvedora. Se você tem uma ideia ou projeto em mente, será um prazer conversar e, quem sabe, construirmos algo juntos. 🚀
+        💡 Este portfólio reúne projetos que refletem minha evolução, dedicação e vontade de aprender sempre mais.
+        <br>
+        Se você busca alguém comprometida, criativa e pronta para crescer junto com o time será um prazer conversar e contribuir para o seu projeto! 🚀
       </p>
     </td>
     </td>
@@ -59,7 +61,6 @@
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlowDev1994&theme=transparent&bg_color=000&border_color=b366ff&show_icons=true&icon_color=005ce6&title_color=005ce6&text_color=80b3ff) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlowDev1994&bg_color=000&border_color=b366ff&show_icons=true&icon_color=005ce6&title_color=005ce6&text_color=80b3ff)   
 
 <picture>
