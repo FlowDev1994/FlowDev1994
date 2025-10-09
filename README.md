@@ -11,9 +11,9 @@
         <br>
         Sou movida por curiosidade, aprendizado contínuo e resolução de problemas. Acredito que a tecnologia é uma ponte entre pessoas e soluções, e busco contribuir com projetos que unam inovação, eficiência e propósito.
         <br>
-        💡 Este portfólio reúne projetos que refletem minha evolução, dedicação e vontade de aprender sempre mais.
+        Este portfólio reúne projetos que refletem minha evolução, dedicação e vontade de aprender sempre mais.
         <br>
-        Se você busca alguém comprometida, criativa e pronta para crescer junto com o time será um prazer conversar e contribuir para o seu projeto! 🚀
+        Se você busca alguém comprometida, criativa e pronta para crescer junto com o time será um prazer conversar e contribuir para o seu projeto! 
       </p>
     </td>
     </td>
