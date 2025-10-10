@@ -7,7 +7,7 @@
       <p align="justify">
         Sou desenvolvedora full stack, apaixonada por transformar ideias em soluções digitais eficientes e bem estruturadas. Tenho 4 anos de experiência em uma escola de programação, onde participei de projetos reais, mentorei alunos e vivi um ambiente de aprendizado constante o que fortaleceu minha visão prática sobre código limpo, usabilidade e boas práticas de desenvolvimento.
         <br>
-        Atualmente, meu foco está em HTML, CSS, JavaScript, Java e MySQL, com base sólida em lógica de programação e integração entre front e back-end. Trabalho diariamente em Linux, ambiente que me proporciona fluidez, automação e contato direto com ferramentas do ecossistema open source.
+        Atualmente, meu foco está em JavaScript, Java e MySQL, com base sólida em lógica de programação e integração entre front e back-end. Trabalho diariamente em Linux, ambiente que me proporciona fluidez, automação e contato direto com ferramentas do ecossistema open source.
         <br>
         Sou movida por curiosidade, aprendizado contínuo e resolução de problemas. Acredito que a tecnologia é uma ponte entre pessoas e soluções, e busco contribuir com projetos que unam inovação, eficiência e propósito.
         <br>
